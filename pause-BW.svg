@@ -1,0 +1,11 @@
+<svg height="800px" width="800px" version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+	 viewBox="0 0 60 60" xml:space="preserve">
+<g>
+	<!-- Circle with black background -->
+	<circle cx="30" cy="30" r="30" fill="black"/>
+
+	<!-- Pause bars filled with white -->
+	<rect x="20" y="15" width="8" height="30" fill="white"/>
+	<rect x="32" y="15" width="8" height="30" fill="white"/>
+</g>
+</svg>
